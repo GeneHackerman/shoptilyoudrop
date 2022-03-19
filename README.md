@@ -14,6 +14,8 @@
   
   ## Description
   A database created with Object Relational Mapping code which serves as a backend database for the frontend user when searching for products on a fullstack website. The project details the GET, POST, PUT, DELETE routes.
+  
+  https://youtu.be/0cILmXYULWk
 
   ## Installation
   After cloning the repo to your local machine, NPM Express must be installed along with Sequelize and MySQL2 packages as these are the required dependencies. 
@@ -36,5 +38,4 @@
 
   ## Credits
   Rafael Arias
-  
-  
+  arias.rafael.1984@gmail.com
